@@ -1,0 +1,54 @@
+---
+title: "[實作] Hexo Blog 架設"
+date: 2020-11-16 22:28:36
+tags: HEXO BLOG
+---
+![](https://i.imgur.com/R7CmRjE.jpg)
+## 前言
+第一篇文章來記錄一下 Hexo Blog 的架設過程，也是參考了很多資料才寫出來的。
+
+## 安裝需求
+<!-- more -->
+在安裝 HEXO 前我們要先確認電腦已經安裝好 [Node.js](https://nodejs.org/en/) 跟 [Git](https://git-scm.com/) ，因為 Hexo 是基於 Node.js 的開發套件，所以要使用前必須要先安裝 NPM(Node Package Manager) ， Git 則是為了能夠在 GitHub 上架設網站的伺服器，還沒安裝的話到官網下載安裝即可。
+
+### 安裝 HEXO
+確認 Node.js & Git 安裝好之後，終端機輸入:
+1. `$ npm install hexo-cli -g` (完成後用 `hexo v` 指令確認是否安裝成功，有出現版本號就完成安裝)
+2. `$ hexo init blog`
+3. `$ cd blog`
+4. `$ npm install`
+5. `$ hexo server or $ hexo s`
+
+## 設定 HEXO
+**_config.yml**
+網站配置檔案，可以修改大部分的設定，像是標題、敘述、支援語言、主題等。
+
+**themes**
+網站主題放置的資料夾，[官網](https://hexo.io/themes/)有提供許多主題供使用。
+
+**第一篇文章**
+輸入指令 `$ hexo new <title>` 後在source/_posts 中將看到 “
+
+**佈署上 GitHub**
+修改 `_config.yml`
+```
+deploy:
+  type: git
+```
+安裝 `hexo-deployer-git`
+```
+$ npm install hexo-deployer-git --save
+```
+
+修改 `_config.yml`
+
+```
+deploy:
+  type: git
+  repo: https://github.com/<yourAccount>/<repo>
+  branch: <your branch>
+```
+
+
+執行 `hexo deploy -g` 就可以將網站佈署到 GitHub上。
+接著輸入 `<yourAccount>.github.io`就能看到自己的網站囉。
