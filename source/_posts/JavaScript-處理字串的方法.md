@@ -5,7 +5,7 @@ tags: JavaScript
 ---
 ![](/uploads/note.jpg)
 紀錄 JavaScript 中處理字串的方法
-
+<!-- more -->
 #### `length` 字串長度
 
 ```javascript=

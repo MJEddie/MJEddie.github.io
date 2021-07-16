@@ -3,8 +3,9 @@ title: "[筆記] JavaScript - 處理陣列的方法"
 date: 2021-05-26 23:38:42
 tags: JavaScript
 ---
+![](/uploads/note.jpg)
 在學習 JavaScript 陣列時，看到六角學院 [JavaScript 陣列處理必學巧技](https://www.youtube.com/watch?v=_vFuDQ_6Xt8) 直播中的範例講解後，能更簡單的理解 JavaScript 中陣列的處理方法，特別記錄下來。
-
+<!-- more -->
 ## 幾種常用的陣列 prototype methods
 
 在說明陣列的方法之前，分享一張陣列方法的 cheat sheet，能更快速的理解關於陣列的 prototype methods。
