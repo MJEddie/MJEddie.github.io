@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - 處理陣列的方法"
+title: "JavaScript - 處理陣列的方法"
 date: 2021-05-26 23:38:42
 tags: JavaScript
 ---
@@ -8,8 +8,10 @@ tags: JavaScript
 <!-- more -->
 ## 幾種常用的陣列 prototype methods
 
-在說明陣列的方法之前，分享一張陣列方法的 cheat sheet，能更快速的理解關於陣列的 prototype methods。
+在說明陣列的方法之前，分享一下陣列方法的 cheat sheet，能更快速的理解關於陣列的 prototype methods。
 ![Photo by Tomek Sułkowski on Twitter](https://pbs.twimg.com/media/Ecj2lLiXgAAIQUr?format=png&name=4096x4096)
+
+![Photo by Tommy on GitHub](https://raw.githubusercontent.com/tooto1985/js-array-operations/master/main.jpg)
 
 ### `forEach()`
 

@@ -1,5 +1,5 @@
 ---
-title: "[筆記] 用 JavaScript 印出各種圖形"
+title: "[實作] 用 JavaScript 印出各種圖形"
 date: 2021-04-13 22:14:15
 tags: JavaScript
 ---

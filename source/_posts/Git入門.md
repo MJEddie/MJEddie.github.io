@@ -1,5 +1,5 @@
 ---
-title: "[筆記] Git & Github 入門"
+title: "Git & Github 入門"
 date: 2020-11-21 18:06:32
 tags: [Git,GitHub]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Math() 函數的使用"
+title: "JavaScript - Math() 函數的使用"
 date: 2020-12-25 15:28:30
 tags: JavaScript
 ---

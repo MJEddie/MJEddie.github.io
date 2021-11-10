@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Date() 日期與時間"
+title: "JavaScript - Date() 日期與時間"
 date: 2020-12-26 21:26:09
 tags: JavaScript
 ---

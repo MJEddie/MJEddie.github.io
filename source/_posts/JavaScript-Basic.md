@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Basic"
+title: "JavaScript - Basic"
 date: 2020-12-13 21:14:52
 tags: JavaScript
 ---

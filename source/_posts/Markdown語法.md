@@ -1,5 +1,5 @@
 ---
-title: "[筆記] Markdown語法"
+title: "Markdown語法"
 date: 2020-11-17 18:13:52
 tags: Markdown
 ---

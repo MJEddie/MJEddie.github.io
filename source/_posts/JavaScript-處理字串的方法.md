@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - 處理字串的方法"
+title: "JavaScript - 處理字串的方法"
 date: 2020-12-16 12:16:28
 tags: JavaScript
 ---

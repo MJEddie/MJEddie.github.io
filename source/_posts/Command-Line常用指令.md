@@ -1,5 +1,5 @@
 ---
-title: "[筆記] Command Line 常用指令"
+title: "Command Line 常用指令"
 date: 2020-11-20 20:02:10
 tags: [Linux,Command Line]
 ---

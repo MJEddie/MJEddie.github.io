@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Hoisting ( 提升 )"
+title: "JavaScript - Hoisting ( 提升 )"
 date: 2021-04-14 07:35:05
 tags: JavaScript
 ---

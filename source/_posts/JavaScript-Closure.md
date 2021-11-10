@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Closure ( 閉包 )"
+title: "JavaScript - Closure ( 閉包 )"
 date: 2021-04-20 10:14:17
 tags: JavaScript
 ---

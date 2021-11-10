@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Event Bubbling & Capturing ( 事件冒泡與事件捕獲 )"
+title: "JavaScript - Event Bubbling & Capturing ( 事件冒泡與事件捕獲 )"
 date: 2021-04-16 07:25:19
 tags: JavaScript
 ---

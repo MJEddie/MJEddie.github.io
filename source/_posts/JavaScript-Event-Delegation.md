@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Event Delegation ( 事件委派 )"
+title: "JavaScript - Event Delegation ( 事件委派 )"
 date: 2021-04-17 08:13:45
 tags: JavaScript
 ---

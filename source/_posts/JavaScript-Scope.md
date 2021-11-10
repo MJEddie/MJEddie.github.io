@@ -1,5 +1,5 @@
 ---
-title: "[筆記] JavaScript - Scope ( 作用域 )"
+title: "JavaScript - Scope ( 作用域 )"
 date: 2021-04-15 17:24:56
 tags: JavaScript
 ---
