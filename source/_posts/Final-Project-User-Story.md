@@ -1,10 +1,8 @@
 ---
-title: "[實作] Final Project User Story ( 需求分析 )"
+title: "[實作] Final Project - La Vie Verte User Story ( 需求分析 )"
 date: 2021-9-28 23:03:10
 tags:
 ---
-# Final Project - La Vie Verte
-
 ## 決定好要製作的網站 
 
 實作網站：[盆栽、多肉植物、塊根植物、観葉植物通販/KIDORI -キドリ-](https://ki-do-ri.jp/)
